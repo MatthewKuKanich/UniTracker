@@ -1,0 +1,6 @@
+requests
+cryptography
+pbkdf2
+srp
+pycryptodome
+configparser
